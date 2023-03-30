@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './Header.css'
 import logo from '../../../public/knowledge.png'
 
 const Header = () => {
@@ -12,7 +13,7 @@ const Header = () => {
                             href="/"
                             aria-label="Our product"
                             title="Our product"
-                            className="ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase"
+                            className="ml-2 text-3xl font-bold tracking-wide text-gray-800 uppercase"
                         >
                             Knowledge Cafe
                         </a>
@@ -23,7 +24,7 @@ const Header = () => {
                             title="Company"
                             className="inline-flex items-center"
                         >
-                            <img src={logo} alt="" />
+                            <img className='logo' src={logo} alt="" />
 
                         </a>
                         <ul className="flex items-center hidden space-x-8 lg:flex">
@@ -210,7 +211,7 @@ const Header = () => {
 
 
 
-
+<hr />
         </nav>
     );
 };

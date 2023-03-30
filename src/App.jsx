@@ -1,6 +1,7 @@
 import { useState } from 'react'
+import Blog from './components/Blog/Blog'
 
-import './App.css'
+// import './App.css'
 import Header from './components/Header/Header'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
+      <Blog></Blog>
     </div>
   )
 }
