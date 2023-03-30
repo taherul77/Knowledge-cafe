@@ -211,7 +211,7 @@ const Header = () => {
 
 
 
-<hr />
+            <hr />
         </nav>
     );
 };
