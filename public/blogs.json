@@ -1,0 +1,46 @@
+[
+    {
+        "id": "01",
+        "title": "Advanced JavaScript Functions to Improve Code Quality",
+        "thumbnail": "https://i.ibb.co/m8xcJp8/1.webp",
+        "authorImg": "https://i.ibb.co/wRyRHJv/author1.jpg",
+        "authorName": "Paul Knulst",
+        "publishedDate": "Mar 14 (4 Days ago)",
+        "readingTime": 5,
+        "tags":"#beginners  #programming"
+
+      },
+      {
+        "id": "02",
+        "title": "8 React Projects to Build in 2023",
+        "thumbnail": "https://i.ibb.co/yhDWsVQ/2.webp",
+        "authorImg": "https://i.ibb.co/QbzVvwK/author2.jpg",
+        "authorName": "Reed Barger",
+        "publishedDate": "Mar 25 (8 Days ago)",
+        "readingTime": 3,
+        "tags":"#react  #vs-code"
+
+      },
+      {
+        "id": "03",
+        "title": "Code-GPT - Make sense of any code, anytime.",
+        "thumbnail": "https://i.ibb.co/BnP4YBP/3.webp",
+        "authorImg": "https://i.ibb.co/yXTL5SJ/author3.webp",
+        "authorName": "Shubh Sharma",
+        "publishedDate": "Mar 10 (2 Days ago)",
+        "readingTime": 6,
+        "tags":"#chat-gpt  #programming"
+
+      },
+      {
+        "id": "04",
+        "title": "Best languages you need learn in 2023?",
+        "thumbnail": "https://i.ibb.co/ZmKFtDK/4.webp",
+        "authorImg": "https://i.ibb.co/L5rv3gh/author4.jpg",
+        "authorName": "Tal Riginiano",
+        "publishedDate": "Mar 20 (7 Days ago)",
+        "readingTime": 2,
+        "tags":"#javascript  #programming"
+
+      }
+]
