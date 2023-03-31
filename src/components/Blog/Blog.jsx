@@ -6,6 +6,7 @@ const Blog = () => {
 
     const [blogs, setBlog] = useState([]);
     const [read, setRead]= useState([]);
+    const [readingTime,setRedingTime] =useState(0);
     useEffect(() => {
         fetch('blogs.json')
             .then(res => res.json())
@@ -28,6 +29,9 @@ const Blog = () => {
     key={blog.id}
     blog = {blog}
     handleAddToRead={handleAddToRead}
+    readingTime={readingTime}
+    setRedingTime={setRedingTime}
+
     >
 
     </Cart>
@@ -38,10 +42,6 @@ const Blog = () => {
                 <h1>coming soon : {read.length}</h1>
 
             </div>
-
-
-
-
 
         </div>
     );

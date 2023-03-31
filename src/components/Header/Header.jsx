@@ -12,30 +12,23 @@ const Header = () => {
                         <a
                             href="/"
                             aria-label="Our product"
-                            title="Our product"
+                            title="Knowledge Cafe"
                             className="ml-2 text-3xl font-bold tracking-wide text-gray-800 uppercase"
                         >
                             Knowledge Cafe
                         </a>
 
-                        <a
-                            href="/"
-                            aria-label="Company"
-                            title="Company"
-                            className="inline-flex items-center"
-                        >
-                            <img className='logo' src={logo} alt="" />
 
-                        </a>
                         <ul className="flex items-center hidden space-x-8 lg:flex">
                             <li>
                                 <a
                                     href="/"
-                                    aria-label="Our product"
-                                    title="Our product"
-                                    className="font-medium tracking-wide text-gray-800 transition-colors duration-200 hover:text-teal-accent-400"
+                                    aria-label="Company"
+                                    title="Knowledge Cafe"
+                                    className="inline-flex items-center"
                                 >
-                                    Product
+                                    <img className='logo' src={logo} alt="" />
+
                                 </a>
                             </li>
                             <li>
@@ -45,19 +38,20 @@ const Header = () => {
                                     title="Our product"
                                     className="font-medium tracking-wide text-gray-800 transition-colors duration-200 hover:text-teal-accent-400"
                                 >
-                                    Features
+                                    Home
                                 </a>
                             </li>
                             <li>
                                 <a
                                     href="/"
-                                    aria-label="Product pricing"
-                                    title="Product pricing"
+                                    aria-label="Our product"
+                                    title="Our product"
                                     className="font-medium tracking-wide text-gray-800 transition-colors duration-200 hover:text-teal-accent-400"
                                 >
-                                    Pricing
+                                    Blog
                                 </a>
                             </li>
+                            
                             <li>
                                 <a
                                     href="/"

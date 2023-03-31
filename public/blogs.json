@@ -1,45 +1,47 @@
 [
+
+  {
+    "id": "01",
+    "title": " programming evolution.jpgGetty Images SOFTWARE DEVELOPMENT Programming Evolution: How Coding Has Grown Easier in the Past Decade ",
+    "thumbnail": "https://i.ibb.co/r3kq7x1/programming-evolution.jpg",
+    "authorImg": "https://i.ibb.co/WtwhMhX/christophertozzi.jpg",
+    "authorName": "Christopher Tozzi",
+    "publishedDate": "Jul 09, 2021",
+    "readingTime": 13,
+    "tags":"#react  #vs-code"
+
+  },
     {
-        "id": "01",
-        "title": "Advanced JavaScript Functions to Improve Code Quality",
-        "thumbnail": "https://i.ibb.co/m8xcJp8/1.webp",
-        "authorImg": "https://i.ibb.co/wRyRHJv/author1.jpg",
-        "authorName": "Paul Knulst",
-        "publishedDate": "Mar 14 (4 Days ago)",
-        "readingTime": 5,
+        "id": "02",
+        "title": "Cutting Edge: The 15 Hottest Programming Languages Right Now",
+        "thumbnail": "https://i.ibb.co/JkMg0H7/1662-original.jpg",
+        "authorImg": "https://i.ibb.co/NCDqhyQ/ey-Jfcm-Fpb-HMi-Onsib-WVzc2-Fn-ZSI6-Ik-JBa-HBBc-Ul-ZIiwi-ZXhw-Ijpud-Wxs-LCJwd-XIi-Oi-Jib-G9i-X2lk-In.jpg",
+        "authorName": "Alastair Cleland",
+        "publishedDate": "11 July 2018",
+        "readingTime": 12,
         "tags":"#beginners  #programming"
 
       },
-      {
-        "id": "02",
-        "title": "8 React Projects to Build in 2023",
-        "thumbnail": "https://i.ibb.co/yhDWsVQ/2.webp",
-        "authorImg": "https://i.ibb.co/QbzVvwK/author2.jpg",
-        "authorName": "Reed Barger",
-        "publishedDate": "Mar 25 (8 Days ago)",
-        "readingTime": 3,
-        "tags":"#react  #vs-code"
-
-      },
+      
       {
         "id": "03",
-        "title": "Code-GPT - Make sense of any code, anytime.",
-        "thumbnail": "https://i.ibb.co/BnP4YBP/3.webp",
-        "authorImg": "https://i.ibb.co/yXTL5SJ/author3.webp",
-        "authorName": "Shubh Sharma",
-        "publishedDate": "Mar 10 (2 Days ago)",
-        "readingTime": 6,
+        "title": "Pair programming driven by programming language generation.",
+        "thumbnail": "https://i.ibb.co/N3kCcwB/Getty-Images-1291886933-e1624308433688.jpg",
+        "authorImg": "https://i.ibb.co/NjfTwLC/f0300f6d76d85ad0afe5e1463789edac.jpg",
+        "authorName": "Kamalkumar Rathinasamy",
+        "publishedDate": "May 19, 2022",
+        "readingTime": 10,
         "tags":"#chat-gpt  #programming"
 
       },
       {
         "id": "04",
-        "title": "Best languages you need learn in 2023?",
-        "thumbnail": "https://i.ibb.co/ZmKFtDK/4.webp",
-        "authorImg": "https://i.ibb.co/L5rv3gh/author4.jpg",
-        "authorName": "Tal Riginiano",
-        "publishedDate": "Mar 20 (7 Days ago)",
-        "readingTime": 2,
+        "title": "Influential Computer Programming Languages",
+        "thumbnail": "https://i.ibb.co/J31nQKT/computer.jpg",
+        "authorImg": "https://i.ibb.co/qNZj1m1/3e046b5d-16d3-4232-ab7e-01effb72dcef-1.jpg",
+        "authorName": "Erik Gregersen",
+        "publishedDate": "Mar 20,2022",
+        "readingTime": 16,
         "tags":"#javascript  #programming"
 
       }
