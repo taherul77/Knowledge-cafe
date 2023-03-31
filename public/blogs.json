@@ -7,7 +7,7 @@
     "authorImg": "https://i.ibb.co/WtwhMhX/christophertozzi.jpg",
     "authorName": "Christopher Tozzi",
     "publishedDate": "Jul 09, 2021",
-    "readingTime": 13,
+    "timeNeed": 13,
     "tags":"#react  #vs-code"
 
   },
@@ -18,7 +18,7 @@
         "authorImg": "https://i.ibb.co/NCDqhyQ/ey-Jfcm-Fpb-HMi-Onsib-WVzc2-Fn-ZSI6-Ik-JBa-HBBc-Ul-ZIiwi-ZXhw-Ijpud-Wxs-LCJwd-XIi-Oi-Jib-G9i-X2lk-In.jpg",
         "authorName": "Alastair Cleland",
         "publishedDate": "11 July 2018",
-        "readingTime": 12,
+        "timeNeed": 12,
         "tags":"#beginners  #programming"
 
       },
@@ -30,7 +30,7 @@
         "authorImg": "https://i.ibb.co/NjfTwLC/f0300f6d76d85ad0afe5e1463789edac.jpg",
         "authorName": "Kamalkumar Rathinasamy",
         "publishedDate": "May 19, 2022",
-        "readingTime": 10,
+        "timeNeed": 10,
         "tags":"#chat-gpt  #programming"
 
       },
@@ -41,7 +41,7 @@
         "authorImg": "https://i.ibb.co/qNZj1m1/3e046b5d-16d3-4232-ab7e-01effb72dcef-1.jpg",
         "authorName": "Erik Gregersen",
         "publishedDate": "Mar 20,2022",
-        "readingTime": 16,
+        "timeNeed": 16,
         "tags":"#javascript  #programming"
 
       }
